@@ -1,0 +1,1 @@
+The code is to display the list of users and on click of user, details of that particular user is displayed. Search functionality is also there to search the users. List and details are displayed from the JSON file.
